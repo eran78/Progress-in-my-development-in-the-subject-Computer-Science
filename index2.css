@@ -44,7 +44,7 @@ body{
 
 h1{
 	background-color: #b68052;
-	margin: 20px;
+	margin: 10px -20px;
 	padding: 10px 20px;
 	color: aliceblue;
 	font-family:Monospace;
@@ -60,6 +60,8 @@ h3{
 
 .top-nav ul{
 	list-style-type:none;
+	padding: 0px 20px;
+	font-family: monospace;
 }
 
 .top-nav ul li{
