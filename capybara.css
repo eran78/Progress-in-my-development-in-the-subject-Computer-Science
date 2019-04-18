@@ -21,9 +21,9 @@ html, body {
 
 .main-nav {
   width: 800px;
-  margin-left: 200px;
-  position: absolute;
-  bottom: 0px;
+    margin-left: 250px;
+    position: absolute;
+    bottom: 0px;
 }
 
   .main-nav a {
@@ -57,6 +57,7 @@ h1 {
   margin: 10px 40px 0px 200px;
     color: #6f717d;
     padding: 10px;
+    padding-left: 0px;
     border-bottom: 2px solid;
 }
 
