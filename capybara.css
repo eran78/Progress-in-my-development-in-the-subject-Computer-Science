@@ -77,6 +77,7 @@ h2 {
   .page-nav ul {
     list-style-type: none;
     padding-left: 20px;
+    position: absolute;
   }
 
     .page-nav ul li {
